@@ -20,4 +20,4 @@ echo 'src-git luci-app-adguardhome https://github.com/rufengsuixing/luci-app-adg
 echo 'src-git AdGuardHome https://github.com/AdguardTeam/AdGuardHome' >>feeds.conf.default
 echo 'src-git smartdns https://github.com/ujincn/smartdns' >>feeds.conf.default
 echo 'src-git luci-app-smartdns-compat https://github.com/ujincn/luci-app-smartdns-compat' >>feeds.conf.default
-echo 'src-git luci-app-aliddns https://github.com/honwen/luci-app-aliddns' >>feeds.conf.default
+#echo 'src-git luci-app-aliddns https://github.com/honwen/luci-app-aliddns' >>feeds.conf.default
